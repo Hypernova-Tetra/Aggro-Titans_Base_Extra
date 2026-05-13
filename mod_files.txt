@@ -1,0 +1,8 @@
+add Main/raw/movie/bo6090.usm
+add Main/raw/movie/bo6091.usm
+add Main/raw/movie/bo6092.usm
+add Main/raw/movie/bo6290.usm
+add Main/raw/movie/bo6291.usm
+add Main/raw/movie/bo6292.usm
+
+add mod.ini
